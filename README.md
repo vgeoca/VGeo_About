@@ -1,3 +1,3 @@
-# One Connect Engineering Cedar Project 
+# About VGeo
 
-General mapping contract.
+We do cool stuff with spatial data.
